@@ -1,0 +1,27 @@
+//Listado de medidas posibles para una web: hacer un mapa de medidas y utilizar para hacer margenes y paddings de todos los lados generados por una medida base.
+
+$baseMargin:20px;
+$basePadding:10px;
+
+.pc{
+    margin: $baseMargin;
+    padding: $basePadding;
+}
+.notebook{
+    margin: $baseMargin - 5;
+    padding: $basePadding - 2.5;
+} 
+.tablet {
+    margin: $baseMargin - 10;
+    padding: $basePadding - 5;
+} 
+
+.mobile {
+    margin: $baseMargin - 15;
+    padding: $basePadding - 7.5;
+} 
+
+
+//Listado de Redes sociales con icono, tipografía y color con mapa multidimensional (matriz) y si la red social es Twitter o facebook, colocarle un background negro.
+
+

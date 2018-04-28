@@ -1,0 +1,21 @@
+.pc {
+  margin: 20px;
+  padding: 10px;
+}
+
+.notebook {
+  margin: 15px;
+  padding: 7.5px;
+}
+
+.tablet {
+  margin: 10px;
+  padding: 5px;
+}
+
+.mobile {
+  margin: 5px;
+  padding: 2.5px;
+}
+
+
